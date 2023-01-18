@@ -1,2 +1,2 @@
-# cyber-lab.tech
+# cyberlab.ge
 writeups for some cryptography challenges
